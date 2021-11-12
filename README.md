@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @florahnaks
+- 👋 Hi, I’m Florence Nakabiri
 - 👀 I’m interested in Genetics and Genomics.
 - 🌱 I’m currently learning Bioinformatics 
 - 📫 How to reach me: florahnaks@gmail.com
